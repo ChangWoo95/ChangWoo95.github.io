@@ -1,0 +1,52 @@
+---
+title:  "[이것이 취업을 위한 코딩 테스트다] 실전: 럭키 스트레이트(백준18406)"
+date: 2020-11-12 19:07:00
+categories:
+    - PS
+tags:
+    - Python
+    - 이것이 취업을 위한 코딩 테스트다
+    - Simulation
+    - Algorithm
+    - Baekjoon
+toc: true
+toc_sticky: true
+toc_label: "럭키 스트레이트"
+---
+
+## 풀이
+
+책에 정해져 있는 난이도들 중, 1에 해당하는 문제이다.
+나의 경우,
+1. 입력으로 받은 문자열을 정수형 리스트로 받음
+2. 총 길이의 반을 기준으로 왼쪽과 오른쪽의 합이 일치하는지를 확인함
+
+## 내 풀이
+```python
+word = list(map(int, input())) #문자열을 int형으로 바꿔 리스트의 형태로 변환
+if sum(word[:len(word)//2]) == sum(word[len(word)//2:]): #리스트의 총 길이/2 기준으로 왼쪽과 오른쪽의 합이 같으면 LUCKY 출력
+    print("LUCKY")
+else:
+    print("READY")
+```
+
+## 책 풀이
+```python
+n = input()
+length = len(n)
+summary = 0
+for i in range(length//2):
+    summary += int(n[i])
+for i in range(length//2,length):
+    summary -= int(n[i])
+
+if summary == 0:
+    print("LUCKY")
+else:
+    print("READY")
+```
+
+## 후기
+풀이 자체는 1분도 안걸려서 나왔지만 책의 풀이와 실행시간을 비교해봤을 때 비슷하게 나왔다.
+코드 라인 수가 적다고 효율적이지 않는다는 것을 다시 한번 확인하는 순간이었다(ㅋㅋㅋㅋ).
+파이썬이 제공하는 함수들과 라이브러리의 시간복잡도도 공부하면서 짜야겠다는 생각이 들었다.
