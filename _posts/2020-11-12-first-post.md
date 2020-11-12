@@ -11,7 +11,7 @@ toc_sticky: true
 toc_label: "[리액트를 사용할 고급 웹앱 클라이언트 제작#1] 기본적인 구조"
 ---
 
-##현재까지 작성한 코드(app.js)
+## 현재까지 작성한 코드(app.js)
 ```xml
 import React, { Component } from 'react';
 
@@ -42,6 +42,6 @@ export default class App extends Component {
 }
 ```
 
-##알게 된 점
+## 알게 된 점
 - React에서는 컴포넌트가 정희한 프로퍼티나 메소드를 호출할 때는 항상 this키워드를 이용해야 한다!!
 - 화살표 함수의 경우, return 키워드와 함수내용을 둘러싸는 중괄호도 생략가능하다.
