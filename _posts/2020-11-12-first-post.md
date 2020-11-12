@@ -12,7 +12,7 @@ toc_label: "[리액트를 사용할 고급 웹앱 클라이언트 제작#1] 기�
 ---
 
 ##현재까지 작성한 코드(app.js)
-'''xml
+```xml
 import React, { Component } from 'react';
 
 export default class App extends Component {
@@ -40,7 +40,7 @@ export default class App extends Component {
         </button>
       </div>
 }
-'''
+```
 
 ##알게 된 점
 - React에서는 컴포넌트가 정희한 프로퍼티나 메소드를 호출할 때는 항상 this키워드를 이용해야 한다!!
