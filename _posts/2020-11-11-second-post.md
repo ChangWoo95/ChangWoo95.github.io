@@ -2,7 +2,7 @@
 title:  "[리액트를 사용할 고급 웹앱 클라이언트 제작#0] 첫 시작"
 date: 2020-11-11 18:28:00
 categories:
-    - Toy project
+    - 리액트를 사용할 고급 웹앱 클라이언트 제작
 tags:
     - react
     - 실습

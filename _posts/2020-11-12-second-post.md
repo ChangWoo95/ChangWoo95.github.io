@@ -2,7 +2,7 @@
 title:  "[리액트를 사용할 고급 웹앱 클라이언트 제작#2] TodoList 끝"
 date: 2020-11-12 15:46:00
 categories:
-    - Toy project
+    - 리액트를 사용할 고급 웹앱 클라이언트 제작
 tags:
     - react
     - 실습
