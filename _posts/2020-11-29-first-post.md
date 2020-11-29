@@ -4,8 +4,9 @@ date: 2020-11-29 17:32:00
 categories:
     - boiler-plate
 tags:
-    - Nodejs
-    - Expressjs
+    - Node.js
+    - Express.js
+    - MongoDB
     - 실습
 toc: true
 toc_sticky: true
