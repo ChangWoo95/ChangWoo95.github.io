@@ -15,6 +15,7 @@ toc_label: "[boiler-plate #1] 로그인"
 ## github Link
 <https://github.com/qaqa313a/boiler-plate-ko>
 
+## 정리
 로그인 기능을 만들면서 배웠던 지식을 정리하려고 한다.
 
 1. pre() <br>

@@ -19,6 +19,7 @@ toc_label: "[boiler-plate #2] server part 구현 및 client part 구현"
 오늘 인증 기능 및 로그아웃 기능을 구현했고, client에서 component만 나누었다.<br>
 배웠던 내용들을 정리해보려고 한다.
 
+## 정리
 1. logout <br>
    login시 등록된 token을 해제시킨다.
 2. React <br>

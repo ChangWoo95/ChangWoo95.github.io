@@ -15,7 +15,7 @@ toc_label: "[boiler-plate #0] 정리"
 ## github Link
 <https://github.com/qaqa313a/boiler-plate-ko>
 
-
+## 정리
 React를 이용한 Youtube 사이트를 하려고 했는데 그 전에 boiler-plate를 만들기 위한 실습을 진행하고 있다.
 그리고 학습한 내용을 정리하기 위해 적어본다.
 
