@@ -100,7 +100,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "qaqa313a@gmail.com"
+      url: "https://qaqa313a@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -269,9 +269,10 @@ compress_html:
 defaults:
   # _posts
   - scope:
-      path: ""
+      path: "assets/images"
       type: posts
     values:
+      image: true
       layout: single
       author_profile: true
       read_time: true
