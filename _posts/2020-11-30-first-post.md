@@ -20,12 +20,12 @@ toc_label: "[boiler-plate #2] server part 구현 및 client part 구현"
 배웠던 내용들을 정리해보려고 한다.
 
 ## 정리
-1. logout <br>
+1. logout  
    login시 등록된 token을 해제시킨다.
-2. React <br>
+2. React  
    - No framework -> Library
    - Components(모듈의 일종)을 이용하며 재사용성이 높음
-   - Real DOM과 Virtual DOM의 차이: Real DOM은 하나의 리스트를 수정해도 전체를 reload해야하지만,<br>
+   - Real DOM과 Virtual DOM의 차이: Real DOM은 하나의 리스트를 수정해도 전체를 reload해야하지만,  
      Virtual DOM은 바뀐 부분만 탐지하고 update -> 이를 **diffing**이라 부름
 3. Virtual DOM의 동작방식:
    1. JSX를 렌더링 -> Virtual DOM이 업데이트됨
