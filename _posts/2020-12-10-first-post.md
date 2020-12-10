@@ -48,7 +48,8 @@ spring에 대한 정리도 추후 올리도록 하겠다.
 - 인스턴스와 heap memory:  
     힙 메모리란?:  
         프로그램에서 사용하는 동적 메모리 공간  
-    ex. studentX = new student();
+    ex. studentX = new student();  
+    
    ![Image Alt 텍스트](/assets/images/2020-12-10_image2.PNG){: width="300" height="300"}  
    studentX변수는 스택 메모리에 저장되고,  
    student 클래스의 멤버변수들을 힙 메모리에 저장된다.  
