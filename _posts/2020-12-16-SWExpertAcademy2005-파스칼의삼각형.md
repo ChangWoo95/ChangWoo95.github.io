@@ -1,0 +1,36 @@
+---
+title:  "[SWexpertacademy2005 파스칼의 삼각형]"
+date: 2020-12-16 22:17:00
+categories:
+- PS
+tags:
+- Python
+- SW Expert Academy
+- Algorithm
+toc: true
+toc_sticky: true
+toc_label: "[SWexpertacademy2005 파스칼의 삼각형]"
+---
+## 문제
+<https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5P0-h6Ak4DFAUq&categoryId=AV5P0-h6Ak4DFAUq&categoryType=CODE>
+## 풀이
+
+```python
+import copy
+T = int(input())
+
+for i in range(1, T+1):
+    N = int(input())
+    pascalList = [1]
+    print('#' + str(i))
+    for _ in range(N):
+        print(' '.join(map(str, pascalList)))
+        tmpList = copy.deepcopy(pascalList)
+        for j in range(1, len(pascalList)):
+            pascalList[j] = tmpList[j] + tmpList[j-1]
+        pascalList.append(1)
+```
+
+## 후기
+난이도2에 해당하는 파스칼의 삼각형 문제를 풀었는데 생각보다 빠르게 풀지 못해서 조금 난감했다....  
+알고리즘 공부도 꾸준히 계속해서 자주 포스팅하도록 하겠다.
