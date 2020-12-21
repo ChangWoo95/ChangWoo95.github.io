@@ -3,13 +3,13 @@ title:  "[SWExpertAcademy10912 외로운문자]"
 date: 2020-12-21 20:21:00
 categories:
 - PS
-  tags:
+tags:
 - Python
 - SW Expert Academy
 - Algorithm
-  toc: true
-  toc_sticky: true
-  toc_label: "[SWExpertAcademy10912 외로운문자]"
+toc: true
+toc_sticky: true
+toc_label: "[SWExpertAcademy10912 외로운문자]"
 ---
 ## 문제
 <https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AXVJuEvqLAADFASe&categoryId=AXVJuEvqLAADFASe&categoryType=CODE>
