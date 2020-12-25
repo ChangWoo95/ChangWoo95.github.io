@@ -12,6 +12,7 @@ toc_sticky: true
 toc_label: "[SWExpertAcademy10912 외로운문자]"
 ---
 ## 문제
+"\n\n"
 <https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AXVJuEvqLAADFASe&categoryId=AXVJuEvqLAADFASe&categoryType=CODE>
 
 ## 접근 방식

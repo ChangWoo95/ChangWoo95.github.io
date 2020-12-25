@@ -12,6 +12,7 @@ toc_sticky: true
 toc_label: "[SWExpertAcademy10570 제곱펠린드롬 수]"
 ---
 ## 문제
+"\n\n"
 <https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AXO72aaqPrcDFAXS&categoryId=AXO72aaqPrcDFAXS&categoryType=CODE>
 
 ## 접근 방식
