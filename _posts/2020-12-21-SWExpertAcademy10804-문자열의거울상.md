@@ -12,6 +12,7 @@ toc_sticky: true
 toc_label: "[SWExpertAcademy10804 문자열의거울상]"
 ---
 ## 문제
+<!--break-->
 <https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AXTC0x16D8EDFASe&categoryId=AXTC0x16D8EDFASe&categoryType=CODE>
 
 ## 접근 방식

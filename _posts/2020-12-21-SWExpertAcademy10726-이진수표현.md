@@ -12,6 +12,7 @@ toc_sticky: true
 toc_label: "[SWExpertAcademy10726 이진수 표현]"
 ---
 ## 문제
+<!--break-->
 <https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AXRSXf_a9qsDFAXS&categoryId=AXRSXf_a9qsDFAXS&categoryType=CODE>
 
 ## 접근 방식

@@ -12,6 +12,7 @@ toc_sticky: true
 toc_label: "[SWexpertacademy2005 파스칼의 삼각형]"
 ---
 ## 문제
+<!--break-->
 <https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5P0-h6Ak4DFAUq&categoryId=AV5P0-h6Ak4DFAUq&categoryType=CODE>
 ## 풀이
 
