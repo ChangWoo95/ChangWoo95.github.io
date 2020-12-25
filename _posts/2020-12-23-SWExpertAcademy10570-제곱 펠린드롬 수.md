@@ -2,11 +2,11 @@
 title:  "[SWExpertAcademy10570 제곱펠린드롬 수]"
 date: 2020-12-23 19:54:00
 categories:
-- PS
+    - PS
 tags:
-- Python
-- SW Expert Academy
-- Algorithm
+    - Python
+    - SW Expert Academy
+    - Algorithm
 toc: true
 toc_sticky: true
 toc_label: "[SWExpertAcademy10570 제곱펠린드롬 수]"

@@ -2,13 +2,13 @@
 title:  "[Chatbot 사이트 #0] 정리"
 date: 2020-12-19 17:16:00
 categories:
-- Chatbot
+    - Chatbot
 tags:
-- Node.js
-- Express.js
-- MongoDB
-- React  
-- 실습
+    - Node.js
+    - Express.js
+    - MongoDB
+    - React  
+    - 실습
 toc: true
 toc_sticky: true
 toc_label: "[Chatbot 사이트 #0] 정리"

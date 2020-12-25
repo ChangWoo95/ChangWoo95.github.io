@@ -2,11 +2,11 @@
 title:  "[Java 프로그래밍 입문#1] 정리"
 date: 2020-12-18 18:35:00
 categories:
-- Java Programming
+    - Java Programming
 tags:
-- Java
-- TIL
-- study
+    - Java
+    - TIL
+    - study
 toc: true
 toc_sticky: true
 toc_label: "[Java 프로그래밍 입문#1] 정리"

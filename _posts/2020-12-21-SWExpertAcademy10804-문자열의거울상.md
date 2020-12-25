@@ -2,11 +2,11 @@
 title:  "[SWExpertAcademy10804 문자열의거울상]"
 date: 2020-12-21 20:32:00  
 categories:
-- PS
+    - PS
 tags:
-- Python
-- SW Expert Academy
-- Algorithm
+    - Python
+    - SW Expert Academy
+    - Algorithm
 toc: true
 toc_sticky: true
 toc_label: "[SWExpertAcademy10804 문자열의거울상]"

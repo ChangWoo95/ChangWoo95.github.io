@@ -2,11 +2,11 @@
 title:  "[SWexpertacademy2005 파스칼의 삼각형]"
 date: 2020-12-16 22:17:00
 categories:
-- PS
+    - PS
 tags:
-- Python
-- SW Expert Academy
-- Algorithm
+    - Python
+    - SW Expert Academy
+    - Algorithm
 toc: true
 toc_sticky: true
 toc_label: "[SWexpertacademy2005 파스칼의 삼각형]"

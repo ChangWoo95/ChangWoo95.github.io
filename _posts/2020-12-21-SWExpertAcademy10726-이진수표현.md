@@ -2,11 +2,11 @@
 title:  "[SWExpertAcademy10726 이진수 표현]"
 date: 2020-12-21 20:21:00
 categories:
-- PS 
+    - PS 
 tags:
-- Python
-- SW Expert Academy
-- Algorithm
+    - Python
+    - SW Expert Academy
+    - Algorithm
 toc: true
 toc_sticky: true
 toc_label: "[SWExpertAcademy10726 이진수 표현]"
