@@ -19,9 +19,9 @@ locale                   : "en-US"
 title                    : "Dev Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "qaqa313a"
+name                     : "ChangWoo95"
 description              : "어제보다 오늘 더 발전하는"
-url                      : "https://qaqa313a.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://changwoo95.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -93,7 +93,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "qaqa313a"
+  name             : "ChangWoo95"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "어제보다 오늘 더 발전하는"
   location         : "South Korea"
@@ -112,7 +112,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/qaqa313a/"
+      url: "https://github.com/ChangWoo95/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -128,7 +128,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/qaqa313a/"
+      url: "https://github.com/ChangWoo95/"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url: "https://github.com/qaqa313a/"
