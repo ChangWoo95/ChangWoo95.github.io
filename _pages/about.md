@@ -2,7 +2,7 @@
 permalink: /about/
 title: "portfolio"
 excerpt: "About me."
-date: 2020-11-16 22:26:00
+date: 2021-01-18 23:27:00
 toc: true
 ---
 
@@ -10,12 +10,16 @@ toc: true
 * 2015년 3월 **입학** <br>
 * 2021년 2월 **졸업 예정**
 
+# 삼성청년SW아카데미(SSAFY)
+* 2021년 1월 시작~
+
 ## 교외활동
 - 2019-12 ~ 2020-02 JMsmart 동계인턴십 (반려견 상태정보를 보여주는 웹페이지 제작)
 
 ## 활용 가능 언어
 - C,C++
 - Python
+- Java  
 - HTML, Javascript, PHP, CSS
 - Assembly
 
@@ -25,7 +29,8 @@ toc: true
 - 2018-2 어셈블리프로그램설계 및 실습 : Bilinear Interpolation
 - 2019-1 시스템프로그래밍 및 실습 : proxy 서버
 - 2019-2 데이터베이스 및 응용: php를 이용한 나만의 영화관
-- 2019-9~2020-5 산학협력SW프로젝트: 딥러닝 기반 간판 상호명 인식(삼성 SDS 연계)
+- 2019-9~2020-5 산학협력SW프로젝트: 딥러닝 기반 간판 상호명 인식(삼성 SDS 연계)  
+  Link: [프로젝트](https://github.com/ChangWoo95/Inter-Korean-summit)
 - 2020-1 소프트웨어공학: Nodejs를 이용한 나만의 쇼핑몰<br>
   Link: [Youtube 시연영상](https://youtu.be/WnD-3XihD1s) <br>
   github: [프로젝트](https://github.com/qaqa313a/Project3)
