@@ -190,6 +190,7 @@ timezone: Asia/Seoul # https://en.wikipedia.org/wiki/List_of_tz_database_time_zo
 
 # Plugins (previously gems:)
 plugins:
+  - jemoji
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
