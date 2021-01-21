@@ -2,7 +2,7 @@
 title:  "[SWEA] javaProgramming #0"
 date: 2020-12-31 16:45:00
 categories:
-- Java Programming
+- JavaProgramming
 tags:
 - Java
 - TIL
