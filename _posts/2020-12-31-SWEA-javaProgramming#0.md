@@ -1,5 +1,5 @@
 ---
-title:  "[SWEA javaProgramming#0] 정리"
+title:  "[SWEA] javaProgramming #0"
 date: 2020-12-31 16:45:00
 categories:
 - Java Programming
@@ -10,7 +10,7 @@ tags:
 - SW Expert Academy
 toc: true
 toc_sticky: true
-toc_label: "[SWEA javaProgramming#0] 정리"
+toc_label: "[SWEA] javaProgramming #0"
 ---
 SWEA에서 배운 내용들을 정리해보고자 한다.
 

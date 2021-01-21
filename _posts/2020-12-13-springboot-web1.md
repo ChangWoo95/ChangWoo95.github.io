@@ -2,12 +2,12 @@
 title:  "[스프링 부트로 배우는 Java web 개발#1] 정리"
 date: 2020-12-13 18:07:00
 categories:
-    - Spring
+- Spring
 tags:
-    - Spring boot
-    - Java
-    - TIL
-    - study
+- Spring boot
+- Java
+- TIL
+- study
 toc: true
 toc_sticky: true
 toc_label: "[스프링 부트로 배우는 Java web 개발#1] 정리"

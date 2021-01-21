@@ -1,15 +1,15 @@
 ---
-title:  "[Java 프로그래밍 입문#1] 정리"
+title:  "[Java] 프로그래밍 입문 #1"
 date: 2020-12-18 18:35:00
 categories:
-    - Java Programming
+- Java
 tags:
-    - Java
-    - TIL
-    - study
+- Java
+- TIL
+- study
 toc: true
 toc_sticky: true
-toc_label: "[Java 프로그래밍 입문#1] 정리"
+toc_label: "[Java] 프로그래밍 입문 #1"
 ---
 변수에 관해 실습했던 내용들을 정리해보려고 한다.
 
